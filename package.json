@@ -1,0 +1,20 @@
+{
+  "name": "13-FriendFinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rchaud03/13-FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rchaud03/13-FriendFinder/issues"
+  },
+  "homepage": "https://github.com/rchaud03/13-FriendFinder#readme"
+}
